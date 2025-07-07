@@ -1,0 +1,135 @@
+[{
+  "name": "Rajesh",
+  "age": 28,
+  "gender": "Male",
+  "department": "Engineering",
+  "position": "Software Engineer",
+  "salary": 70000,
+  "mobile": "9876543210"
+},
+{
+  "name": "Lakshmi",
+  "age": 35,
+  "gender": "Female",
+  "department": "HR",
+  "position": "HR Manager",
+  "salary": 60000,
+  "mobile": "9865321470"
+},
+{
+  "name": "Karthik",
+  "age": 30,
+  "gender": "Male",
+  "department": "Engineering",
+  "position": "Data Scientist",
+  "salary": 75000,
+  "mobile": "9856324781"
+},
+{
+  "name": "Vijay",
+  "age": 40,
+  "gender": "Male",
+  "department": "Sales",
+  "position": "Sales Manager",
+  "salary": 65000,
+  "mobile": "9845213647"
+},
+{
+  "name": "Priya",
+  "age": 29,
+  "gender": "Female",
+  "department": "Engineering",
+  "position": "DevOps Engineer",
+  "salary": 72000,
+  "mobile": "9837456210"
+},
+{
+  "name": "Anitha",
+  "age": 45,
+  "gender": "Female",
+  "department": "Engineering",
+  "position": "Backend Engineer",
+  "salary": 80000,
+  "mobile": "9871023456"
+},
+{
+  "name": "Suresh",
+  "age": 32,
+  "gender": "Male",
+  "department": "Engineering",
+  "position": "Frontend Engineer",
+  "salary": 68000,
+  "mobile": "9896543210"
+},
+{
+  "name": "Meena",
+  "age": 36,
+  "gender": "Female",
+  "department": "Marketing",
+  "position": "Marketing Specialist",
+  "salary": 58000,
+  "mobile": "9812345670"
+},
+{
+  "name": "Ravi",
+  "age": 31,
+  "gender": "Male",
+  "department": "Sales",
+  "position": "Account Executive",
+  "salary": 63000,
+  "mobile": "9807654321"
+},
+{
+  "name": "Geetha",
+  "age": 27,
+  "gender": "Female",
+  "department": "HR",
+  "position": "Recruiter",
+  "salary": 50000,
+  "mobile": "9823415678"
+},
+{
+  "name": "Mani",
+  "age": 33,
+  "gender": "Male",
+  "department": "Engineering",
+  "position": "Mobile Developer",
+  "salary": 71000,
+  "mobile": "9811234567"
+},
+{
+  "name": "Revathi",
+  "age": 38,
+  "gender": "Female",
+  "department": "Finance",
+  "position": "Financial Analyst",
+  "salary": 67000,
+  "mobile": "9810987654"
+},
+{
+  "name": "Murali",
+  "age": 42,
+  "gender": "Male",
+  "department": "Operations",
+  "position": "Operations Manager",
+  "salary": 69000,
+  "mobile": "9821345670"
+},
+{
+  "name": "Shalini",
+  "age": 34,
+  "gender": "Female",
+  "department": "Engineering",
+  "position": "QA Engineer",
+  "salary": 65000,
+  "mobile": "9834567812"
+},
+{
+  "name": "Ganesh",
+  "age": 29,
+  "gender": "Male",
+  "department": "Customer Support",
+  "position": "Support Specialist",
+  "salary": 52000,
+  "mobile": "9876542109"
+}]
